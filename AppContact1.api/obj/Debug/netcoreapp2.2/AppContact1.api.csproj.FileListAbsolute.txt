@@ -1,0 +1,14 @@
+/home/mindadmin/app/AppContact1/AppContact1.api/bin/Debug/netcoreapp2.2/AppContact1.api.deps.json
+/home/mindadmin/app/AppContact1/AppContact1.api/bin/Debug/netcoreapp2.2/AppContact1.api.runtimeconfig.json
+/home/mindadmin/app/AppContact1/AppContact1.api/bin/Debug/netcoreapp2.2/AppContact1.api.runtimeconfig.dev.json
+/home/mindadmin/app/AppContact1/AppContact1.api/bin/Debug/netcoreapp2.2/AppContact1.api.dll
+/home/mindadmin/app/AppContact1/AppContact1.api/bin/Debug/netcoreapp2.2/AppContact1.api.pdb
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.csprojAssemblyReference.cache
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.csproj.CoreCompileInputs.cache
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.RazorAssemblyInfo.cache
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.RazorAssemblyInfo.cs
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.AssemblyInfoInputs.cache
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.AssemblyInfo.cs
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.RazorTargetAssemblyInfo.cache
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.dll
+/home/mindadmin/app/AppContact1/AppContact1.api/obj/Debug/netcoreapp2.2/AppContact1.api.pdb
